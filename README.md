@@ -12,5 +12,5 @@ The objectives of this project were to:
   •  compare this model's performance with the autoencoder model.
 
 The dataset is provided in the Canopies-data folder, it containes patches of different sizes.
-The implementation of the project is provided and commented in the colab file (.ypnb).
+The implementation of the project is provided and commented in the colab file (.ipynb).
 The implementation is also provided in .py format.
