@@ -7,8 +7,10 @@ This project is inserted in the context of the larger, EU funded, CANOPIES proje
 The objectives of this project were to:
 
   *  build a dataset of patches obtained by cropping the full-images provided by the CANOPIES team;
+
+  *  automatically load and process the images data so that it can be fed to the neural network;
   
-  *  design and train a model on the dataset created that could work on inputs of variable sizes;
+  *  design and train a Fully Convolutional Neural Network model on the dataset created that could work on inputs of variable sizes;
   
   *  evaluate this model's performance at detecting and localizing anomalies in pictures of grapes;
   
