@@ -2,11 +2,11 @@
 ** **WARNING** **: to make sure that the cells and the outputs in the .ipynb file are correctly displayed it is advised to download the the file and open it in Colab and not to use the github preview.
 
 
-This project is inserted in the context of the larger, EU funded, CANOPIES project.
+This project is inserted in the context of the larger, EU H2020 funded, CANOPIES project.
 
 The objectives of this project were to:
 
-  *  build a dataset of patches obtained by cropping the full-images provided by the CANOPIES team;
+  *  build a dataset of varying sized patches by cropping the full-scale images provided by the CANOPIES team;
 
   *  automatically load and process the images data so that it can be fed to the neural network;
   
